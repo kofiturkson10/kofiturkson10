@@ -1,4 +1,4 @@
-# Kofi Turkson
+# Hey there 👋
 
 .NET Developer focused on backend development and cloud solutions with Azure.
 
